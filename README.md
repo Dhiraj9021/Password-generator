@@ -1,12 +1,36 @@
-# React + Vite
+# 🔐 Password Generator 🔐
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and responsive **React-based Password Generator** that allows users to generate strong and customizable passwords with options for length, numbers, and special characters.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- ✅ Set custom password length
+- 🔢 Include/exclude **numbers**
+- 🔠 Include/exclude **special characters**
+- 🧠 Automatically copy generated password
+- 🌙 Soft and attractive **UI design**
+- ⚡ Built with React and Hooks (`useState`, `useCallback`, `useEffect`, `useRef`)
+
+---
+
+## 🖼️ Demo
+
+Demo: [Click Here](#) <!-- Optional: Add GitHub Pages/Vercel/Netlify link -->
+
+---
+
+## 📂 Project Structure## 🧰 Tech Stack
+
+| Technology     | Description                                |
+|----------------|--------------------------------------------|
+| ⚛️ React.js     | Frontend library for building UI components |
+| 🧪 Vite         | Fast development server & build tool       |
+| 🧠 React Hooks  | `useState`, `useEffect`, `useRef`, `useCallback` |
+| 🎨 CSS3         | For styling and UI design                  |
+| 🛠️ JavaScript   | Logic for password generation              |
+| 📦 Node.js + npm | For managing dependencies and scripts     |
+| 🌐 HTML5        | Base template structure                    |
